@@ -1,15 +1,26 @@
 body {
 	background: url("../img/bg.png");
 	margin: 50px;
-	padding: 50px;
 }
 
 li,
 p {
+	background: green;
+
 	font-family: 'Averia Gruesa Libre', cursive;
 }
-h1, h2, h3, h4 {
+h1 {
+	background: black;
+	padding: 5px 0 5px 5px;
+	margin-right: 0px;
 	color: #8767ed;
+} 
+
+h2, h3, h4 {
+	background: black;
+	padding: 10px 30px 10px 10px;
+	color: #8767ed;
+
 	font-family: 'Krona One', sans-serif;
 }
 
