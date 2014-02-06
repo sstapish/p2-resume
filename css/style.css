@@ -3,7 +3,7 @@ body {
 	margin: 50px;
 }
 
-li,
+ul,
 p {
 	background: green;
 
@@ -11,9 +11,12 @@ p {
 }
 h1 {
 	background: black;
-	padding: 5px 0 5px 5px;
-	margin-right: 0px;
 	color: #8767ed;
+
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	margin: 0;
 } 
 
 h2, h3, h4 {
