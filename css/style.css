@@ -1,5 +1,7 @@
 body {
 	background: url("../img/bg.png");
+	margin: 50px;
+	padding: 50px;
 }
 
 li,
@@ -7,9 +9,13 @@ p {
 	font-family: 'Averia Gruesa Libre', cursive;
 }
 h1, h2, h3, h4 {
+	color: #8767ed;
 	font-family: 'Krona One', sans-serif;
 }
 
+a {
+	text-decoration: none;
+}
 nav li {
 	float: left;
 	list-style: none;
