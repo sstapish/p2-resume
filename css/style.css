@@ -1,3 +1,17 @@
 body {
 	background: url("../img/bg.png");
 }
+
+li,
+p {
+	font-family: 'Averia Gruesa Libre', cursive;
+}
+h1, h2, h3, h4 {
+	font-family: 'Krona One', sans-serif;
+}
+
+nav li {
+	float: left;
+	list-style: none;
+	margin: 0 20px;
+}
