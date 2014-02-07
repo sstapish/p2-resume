@@ -6,13 +6,25 @@ body {
  .globalnav {
 	background: black;
 
-	line-height: 15px;
 	position: fixed;
 	left: 0;
 	top: 0;
 	white-space: nowrap;
 	width: 100%;
+
+	
 }
+
+h1 {
+	background: black;
+	color: #1665e8;
+	
+	float: right;
+	height: 50px;
+	line-height: 50px;
+	
+	margin: 0;
+} 
 
 nav ul li {
 	float: right;
@@ -30,19 +42,8 @@ p {
 	border-radius: 0 25px 0 30px;
 
 	font-family: 'Averia Gruesa Libre', cursive;
-	padding: 10px;
+	padding: 12px 10px 15px 15px;
 }
-
-h1 {
-	background: black;
-	color: #1665e8;
-	
-	float: right;
-	height: 50px;
-	line-height: 50px;
-	
-	margin: 0;
-} 
 
 h2, h3, h4 {
 	background: black;
@@ -63,7 +64,7 @@ li {
 
 h2 + ul {
 	margin: 0;
-	padding: 15px 30px 15px 70px;
+	padding: 15px 30px 20px 70px;
 }
 
 h2 + ul li {
@@ -71,7 +72,7 @@ h2 + ul li {
 }
 
 h3 + ul {
-	padding: 5px 20px;
+	padding: 10px 20px 15px 20px;
 }
 
 a {
@@ -85,7 +86,7 @@ a {
 
 .block {
 	background: #1665e8;
-	padding: 5px;
+	padding: 12px 10px 15px 15px;
 	border-radius: 0 25px 0 30px;
 }
 
