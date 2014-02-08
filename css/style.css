@@ -94,6 +94,11 @@ a {
 	padding: 3px;
 }
 
+img {
+	width: 25px;
+	height: 25px;
+}
+
 footer {
 	color: white;
 }
