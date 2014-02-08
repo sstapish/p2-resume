@@ -112,6 +112,13 @@ a:active{
 	padding: 3px;
 }
 
+.center {
+	text-align: center;
+	font-size: 20px;
+	height: 40px;
+	margin: 10px 0 35px 0;
+}
+
 img {
 	width: 215px;
 	height: 257px;
