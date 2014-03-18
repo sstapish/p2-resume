@@ -12,7 +12,7 @@ body {
 	font-family: 'Merienda', cursive;
 	color: #1E1C45;
 	text-align: left;
-	
+
 
 }
 /*
@@ -188,7 +188,7 @@ h3 + ul {
 	#navbar ul li a:hover,
 	 #navbar ul li a:active {
 		color: #334561;
-		font-size: 1.25em;
+		font-size: 1.2em;
 
 	}
 /*
